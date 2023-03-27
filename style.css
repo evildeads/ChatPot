@@ -106,6 +106,14 @@ nav button:hover {
   align-content: center;
   margin: 10px;
 }
+.box1 h3 {
+  position: relative;
+  top: 50px;
+  font-size: 36px;
+  text-align: center;
+  font-family: moonfont;
+  font-weight: 500;
+}
 .box1 img {
   position: relative;
   top: 10px;
@@ -129,6 +137,14 @@ nav button:hover {
   grid-area: y;
   justify-content: space-around;
   align-content: center;
+}
+.box2 h3 {
+  position: relative;
+  top: 50px;
+  font-size: 36px;
+  text-align: center;
+  font-family: moonfont;
+  font-weight: 500;
 }
 .box2 img {
   position: relative;
